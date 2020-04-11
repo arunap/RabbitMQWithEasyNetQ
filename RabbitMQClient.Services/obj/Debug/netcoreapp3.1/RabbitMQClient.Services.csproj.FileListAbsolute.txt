@@ -1,0 +1,11 @@
+D:\Personal\RabbitMQClient\RabbitMQClient.Services\bin\Debug\netcoreapp3.1\RabbitMQClient.Services.deps.json
+D:\Personal\RabbitMQClient\RabbitMQClient.Services\bin\Debug\netcoreapp3.1\RabbitMQClient.Services.dll
+D:\Personal\RabbitMQClient\RabbitMQClient.Services\bin\Debug\netcoreapp3.1\RabbitMQClient.Services.pdb
+D:\Personal\RabbitMQClient\RabbitMQClient.Services\bin\Debug\netcoreapp3.1\RabbitMQClient.Contracts.dll
+D:\Personal\RabbitMQClient\RabbitMQClient.Services\bin\Debug\netcoreapp3.1\RabbitMQClient.Contracts.pdb
+D:\Personal\RabbitMQClient\RabbitMQClient.Services\obj\Debug\netcoreapp3.1\RabbitMQClient.Services.csprojAssemblyReference.cache
+D:\Personal\RabbitMQClient\RabbitMQClient.Services\obj\Debug\netcoreapp3.1\RabbitMQClient.Services.AssemblyInfoInputs.cache
+D:\Personal\RabbitMQClient\RabbitMQClient.Services\obj\Debug\netcoreapp3.1\RabbitMQClient.Services.AssemblyInfo.cs
+D:\Personal\RabbitMQClient\RabbitMQClient.Services\obj\Debug\netcoreapp3.1\RabbitMQClient.Services.csproj.CopyComplete
+D:\Personal\RabbitMQClient\RabbitMQClient.Services\obj\Debug\netcoreapp3.1\RabbitMQClient.Services.dll
+D:\Personal\RabbitMQClient\RabbitMQClient.Services\obj\Debug\netcoreapp3.1\RabbitMQClient.Services.pdb

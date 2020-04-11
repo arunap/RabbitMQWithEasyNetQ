@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EasyNetQ" Version="3.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RabbitMQClient.Contracts\RabbitMQClient.Contracts.csproj" />
+    <ProjectReference Include="..\RabbitMQClient.Services\RabbitMQClient.Services.csproj" />
+  </ItemGroup>
+
+
+</Project>

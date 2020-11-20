@@ -11,8 +11,8 @@ namespace RabbitMQClient.Services
 {
     public class RabbitMQService: IRabbitMQService
     {
-        const string _queueName = "default_queue";
-        const string _exchangeName = "default_exchange";
+        const string _queueName = "default_rb_queue";
+        const string _exchangeName = "default_rb_exchange";
 
         private readonly IBus _serviceBus;
         private readonly IAdvancedBus _advancedBus;
@@ -42,6 +42,8 @@ namespace RabbitMQClient.Services
             IDisposable disposable = _advancedBus.Consume(queue, async (body, properties, info) =>
             {
                 var message = Encoding.UTF8.GetString(body);
+
+                throw new Exception("Test Exception.");
 
                 _logger.LogDebug($"ConsumeAsync() started.");
                 await actionToPerform(message, stoppingToken);

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using EasyNetQ;
+using EasyNetQ.Consumer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -31,7 +32,9 @@ namespace RabbitMQClient.WebHost.App
             services
             .AddSingleton(sp =>
             {
-                return RabbitHutch.CreateBus("host=localhost;username=guest;password=guest");
+                return RabbitHutch.CreateBus(
+                    "host=localhost;username=guest;password=guest", 
+                    x => x.Register<IConsumerErrorStrategy>(_ => new AlwaysRequeueErrorStrategy()));
             })
             .AddSingleton<IHostedService, BackgroundTask>()
             .AddSingleton<IRabbitMQService, RabbitMQService>();

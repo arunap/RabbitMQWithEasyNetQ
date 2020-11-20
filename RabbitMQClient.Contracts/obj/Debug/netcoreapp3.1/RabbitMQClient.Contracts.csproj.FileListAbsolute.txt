@@ -1,8 +1,0 @@
-D:\Personal\RabbitMQClient\RabbitMQClient.Contracts\bin\Debug\netcoreapp3.1\RabbitMQClient.Contracts.deps.json
-D:\Personal\RabbitMQClient\RabbitMQClient.Contracts\bin\Debug\netcoreapp3.1\RabbitMQClient.Contracts.dll
-D:\Personal\RabbitMQClient\RabbitMQClient.Contracts\obj\Debug\netcoreapp3.1\RabbitMQClient.Contracts.AssemblyInfoInputs.cache
-D:\Personal\RabbitMQClient\RabbitMQClient.Contracts\obj\Debug\netcoreapp3.1\RabbitMQClient.Contracts.AssemblyInfo.cs
-D:\Personal\RabbitMQClient\RabbitMQClient.Contracts\bin\Debug\netcoreapp3.1\RabbitMQClient.Contracts.pdb
-D:\Personal\RabbitMQClient\RabbitMQClient.Contracts\obj\Debug\netcoreapp3.1\RabbitMQClient.Contracts.dll
-D:\Personal\RabbitMQClient\RabbitMQClient.Contracts\obj\Debug\netcoreapp3.1\RabbitMQClient.Contracts.pdb
-D:\Personal\RabbitMQClient\RabbitMQClient.Contracts\obj\Debug\netcoreapp3.1\RabbitMQClient.Contracts.csprojAssemblyReference.cache

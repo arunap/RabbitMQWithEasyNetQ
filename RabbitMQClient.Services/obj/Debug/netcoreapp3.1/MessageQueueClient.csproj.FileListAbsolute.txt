@@ -1,5 +1,0 @@
-D:\Personal\RabbitMQClient\MessageQueueClient\bin\Debug\netcoreapp3.1\MessageQueueClient.deps.json
-D:\Personal\RabbitMQClient\MessageQueueClient\bin\Debug\netcoreapp3.1\MessageQueueClient.dll
-D:\Personal\RabbitMQClient\MessageQueueClient\obj\Debug\netcoreapp3.1\MessageQueueClient.AssemblyInfoInputs.cache
-D:\Personal\RabbitMQClient\MessageQueueClient\obj\Debug\netcoreapp3.1\MessageQueueClient.AssemblyInfo.cs
-D:\Personal\RabbitMQClient\MessageQueueClient\obj\Debug\netcoreapp3.1\MessageQueueClient.csprojAssemblyReference.cache
